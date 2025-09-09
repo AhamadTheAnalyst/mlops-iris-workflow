@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 import joblib
 
 RANDOM_STATE = 42
-N_ESTIMATORS = 100  # <-- we will change this later for versioning step
+N_ESTIMATORS = 200  # change from 100
 
 def main():
     # 1) Data
